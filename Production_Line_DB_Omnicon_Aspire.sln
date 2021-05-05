@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production_Line_DB_Omnicon_Aspire", "Production_Line_DB_Omnicon_Aspire\Production_Line_DB_Omnicon_Aspire.csproj", "{8D7195B9-4383-4DF1-8B43-95EAE97945A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7195B9-4383-4DF1-8B43-95EAE97945A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7195B9-4383-4DF1-8B43-95EAE97945A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7195B9-4383-4DF1-8B43-95EAE97945A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7195B9-4383-4DF1-8B43-95EAE97945A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE08F980-16E4-4285-B729-47DA79BA7D14}
+	EndGlobalSection
+EndGlobal
